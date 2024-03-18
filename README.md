@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dynolynd</title>
+</head>
+<body>
+    <header>
+        <h1>Dynolynd</h1>
+        <p>For testing purposes only.</p>
+    </header>
+    <section>
+        <h2>Installation</h2>
+        <p>Instructions on how to install and set up Dynolynd.</p>
+    </section>
+    <section>
+        <h2>Usage</h2>
+        <p>Examples of how to use Dynolynd.</p>
+    </section>
+    <section>
+        <h2>Contributing</h2>
+        <p>Guidelines for contributing to Dynolynd.</p>
+    </section>
+    <section>
+        <h2>License</h2>
+        <p>Information about Dynolynd's license.</p>
+    </section>
+    <footer>
+        <p>Created by Andre - © 2024</p>
+    </footer>
+</body>
+</html>
